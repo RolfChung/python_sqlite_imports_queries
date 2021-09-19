@@ -1,0 +1,25 @@
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: mintcream;
+  text-align: center;
+  padding-right:50;
+  padding-left:50;
+  margin-top: 30px;
+  margin-bottom: 30px}
+
+.myDiv_2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  padding-right:50;
+  padding-left:50;}
+
+.myDiv_header1 {
+  color: royalblue;
+  font-size: 150%;
+  text-align: center}
+
+</style>
